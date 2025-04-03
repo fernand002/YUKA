@@ -1,0 +1,6 @@
+HOST: b178mim6yjqnzoc7xtzv-mysql.services.clever-cloud.com
+DATABASE NAME: b178mim6yjqnzoc7xtzv
+USER: uo4gt2xvm1u8hjus
+PASS: fZ6e9Eygg0IYG84LUA8T
+PORT: 3306
+CONNECTION: mysql://uo4gt2xvm1u8hjus:fZ6e9Eygg0IYG84LUA8T@b178mim6yjqnzoc7xtzv-mysql.services.clever-cloud.com:3306/b178mim6yjqnzoc7xtzv
